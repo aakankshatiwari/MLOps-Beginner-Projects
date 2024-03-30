@@ -1,3 +1,3 @@
 # MLOps-Beginner-Projects
-# Netflix Project
-# Wallmart Project
+# 1. Netflix Project
+# 2. Wallmart Project
